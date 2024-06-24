@@ -6,4 +6,7 @@ Meu nome é felipe
 - Estou me desenvolvendo na lingugem JavaScript
 - Ultilizo eese espaço para compartilhar meus projetos desenvolvidos
 
-  
+
+**Você pode entrar em contato comigo**
+
+00001105683618sp@al.educacao.sp.gov.br
